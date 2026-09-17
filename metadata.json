@@ -1,0 +1,8 @@
+{
+  "name": "Remix Daily Academic Activity Report",
+  "description": "Daily academic and administrative activity recording, timetable integration, and monthly reporting app for college professors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
